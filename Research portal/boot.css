@@ -1,0 +1,9 @@
+.checkbox{
+    padding: 10px;
+    background: #1abc9c;
+}
+    input[type=checkbox] {
+    border: 0px;
+    width: 1.4%;
+    height: 2em;
+}
